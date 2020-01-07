@@ -4,7 +4,7 @@
 #
 Name     : segno
 Version  : 0.2.8
-Release  : 3
+Release  : 4
 URL      : https://github.com/heuer/segno/archive/0.2.8.tar.gz
 Source0  : https://github.com/heuer/segno/archive/0.2.8.tar.gz
 Summary  : No detailed summary available
