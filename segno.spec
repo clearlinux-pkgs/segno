@@ -4,7 +4,7 @@
 #
 Name     : segno
 Version  : 0.2.8
-Release  : 5
+Release  : 6
 URL      : https://github.com/heuer/segno/archive/0.2.8.tar.gz
 Source0  : https://github.com/heuer/segno/archive/0.2.8.tar.gz
 Summary  : QR Code and Micro QR Code generator for Python 2 and Python 3
